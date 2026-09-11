@@ -52,7 +52,8 @@ pip install pandas matplotlib
 
 
 
-<img width="1085" height="582" alt="Screenshot 2026-09-11 222822" src="https://github.com/user-attachments/assets/618cd2b0-1764-4c73-ae44-ca234c061a42" />
+<img width="1268" height="617" alt="Screenshot 2026-09-11 222748" src="https://github.com/user-attachments/assets/9a487ba4-feef-4c35-a1bc-908d1704cdc3" />
+
 <img width="1287" height="630" alt="Screenshot 2026-09-11 222837" src="https://github.com/user-attachments/assets/a7edbd73-f187-4df3-b3c2-d24e08abe3fa" />
 <img width="1085" height="582" alt="Screenshot 2026-09-11 222822" src="https://github.com/user-attachments/assets/f10c1e46-eb23-42cf-86d0-5a9b661be8da" />
 
