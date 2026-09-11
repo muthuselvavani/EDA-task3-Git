@@ -1,3 +1,6 @@
+<img width="1287" height="630" alt="Screenshot 2026-09-11 222837" src="https://github.com/user-attachments/assets/6eead443-c833-4a0d-8929-89372eb8f3ae" />
+<img width="1085" height="582" alt="Screenshot 2026-09-11 222822" src="https://github.com/user-attachments/assets/87db30ba-cb82-42ee-b7c3-5ba699066ca0" />
+<img width="1268" height="617" alt="Screenshot 2026-09-11 222748" src="https://github.com/user-attachments/assets/8318f2b1-451b-4167-9f43-858fe5e06af1" />
 # 📈 Shopify (SHOP) Stock — Exploratory Data Analysis
 
 Exploratory data analysis of Shopify (SHOP) historical stock price data, covering data cleaning, feature engineering, and visualization of price and volume trends.
